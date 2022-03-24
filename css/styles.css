@@ -108,7 +108,7 @@ input::placeholder{
     margin-right: 10px;
 }
 #check:checked{
-    background-image: url("/img/checkmark-done-sharp.svg");
+    background-image: url("img/checkmark-done-sharp.svg");
     background-size: 69%;
     background-repeat: no-repeat;
     background-position: center;
