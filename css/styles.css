@@ -109,7 +109,7 @@ input::placeholder{
 }
 #check:checked{
 /*     background-image: url("../img/checkmark-done-sharp.svg"); */
-        background-image: url("../img/User-Account-PNG-Clipart.png");
+/*         background-image: url("../img/User-Account-PNG-Clipart.png"); */
     background-size: 69%;
     background-repeat: no-repeat;
     background-position: center;
